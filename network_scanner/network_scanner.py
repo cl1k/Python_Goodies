@@ -1,20 +1,20 @@
 #!/usr/bin/env python
 
 import scapy.all as scapy
-import optparse
+import argparse
 
 
 def get_arguments():
-    parser = optparse.OptionParser()
-    parser.add_option("-t", "--target", dest="target", help="Enter IP, or IP range to be scanned")
-    (options, arguments) = parser.parse_args()
-    if not options.target:
-        parser.error("[-] Please specify an IP, or IP range. Use --help for more info.")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-t", "--target", dest="target", help="Target IP, or IP range")
+    (options) = parser.parse_args()
+# if not options.target:
+# parser.error("[-] Please specify an IP, or IP range. Use --help for more info.")
     return options
 
 
-def scan(target):
-    arp_request = scapy.ARP(pdst=target)
+def scan(ip):
+    arp_request = scapy.ARP(pdst=ip)
     broadcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")
 
 # putting all the packet information into one variable
