@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mac_change/.idea/mac_change.iml" filepath="$PROJECT_DIR$/../mac_change/.idea/mac_change.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/network_scanner.iml" filepath="$PROJECT_DIR$/.idea/network_scanner.iml" />
     </modules>
   </component>

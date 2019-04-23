@@ -35,6 +35,11 @@ def scan(target):
         clients_list.append(client_dict)
     return clients_list
 
+# use this regex to ensure a valid ip has been passed in
+# ^(([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])\.){3}([0-9]|[1-9][0-9]|1[0-9]{2}|2[0-4][0-9]|25[0-5])$
+
+# def get_target_ip(target):
+
 
 def print_result(results_list):
     print("IP\t\t\tMAC Address\n-----------------------------------------")
