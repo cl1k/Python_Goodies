@@ -29,6 +29,7 @@ def scan(ip):
 # creates a list of dictionaries containing client data
 # iterates through answered and puts answered_list data into dictionary
 # appends each dictionary to the client_list and returns
+
     clients_list = []
     for element in answered_list:
         client_dict = {"ip": element[1].psrc, "mac": element[1].hwsrc}

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c475d1-3709-427f-b3e6-c14cc4d11c0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../arp_spoof/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arp_spoof/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arp_spoof/arp_spoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/../arp_spoof/arp_spoof.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/network_scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/network_scanner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +18,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/network_scanner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="300">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#23#48#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,9 +46,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="113" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="165" />
+    <option name="y" value="151" />
     <option name="width" value="1141" />
     <option name="height" value="767" />
   </component>
@@ -84,7 +90,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="315" y="104" width="846" height="835" extended-state="0" />
+    <frame x="165" y="151" width="1141" height="767" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2039356" />
@@ -109,8 +115,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/network_scanner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="300">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#23#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
