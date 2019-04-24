@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eaa242a-53ec-4db7-b6f7-b3f2ca28e014" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arp_spoof.py" beforeDir="false" afterPath="$PROJECT_DIR$/arp_spoof.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../network_scanner/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../network_scanner/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../network_scanner/network_scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../network_scanner/network_scanner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/arp_spoof.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="480">
+              <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+              <folding>
+                <element signature="e#23#48#0" expanded="true" />
+                <element signature="e#72#327#0" />
+                <element signature="e#366#498#0" />
+                <element signature="e#583#784#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,10 +49,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="411" />
-    <option name="y" value="98" />
+    <option name="x" value="997" />
+    <option name="y" value="27" />
     <option name="width" value="923" />
-    <option name="height" value="835" />
+    <option name="height" value="951" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,10 +104,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="134" y="144" width="923" height="835" extended-state="0" />
+    <frame x="997" y="27" width="923" height="951" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22777778" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22777778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -123,8 +129,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/arp_spoof.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="480">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+          <folding>
+            <element signature="e#23#48#0" expanded="true" />
+            <element signature="e#72#327#0" />
+            <element signature="e#366#498#0" />
+            <element signature="e#583#784#0" />
+          </folding>
         </state>
       </provider>
     </entry>
