@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a469325-41f7-4d01-9b4f-c4fdc496c310" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../arp_spoof/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arp_spoof/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packet_sniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/packet_sniffer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/packet_sniffer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="495">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#22#47#0" expanded="true" />
               </folding>
@@ -55,8 +56,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="61" />
     <option name="y" value="27" />
-    <option name="width" value="782" />
+    <option name="width" value="1065" />
     <option name="height" value="948" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -82,6 +84,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../arp_spoof" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,10 +112,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="782" height="948" extended-state="4" />
+    <frame x="61" y="27" width="1065" height="948" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20948617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20921305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -134,8 +137,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/packet_sniffer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="495">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#22#47#0" expanded="true" />
           </folding>
