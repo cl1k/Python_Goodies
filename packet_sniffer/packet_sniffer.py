@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import scapy.all as scapy
 from scapy.layers import http
+# sysctl -w net.ipv4.ip_forward=1
 
 
 def sniff(interface):
